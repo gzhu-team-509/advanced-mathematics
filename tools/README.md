@@ -20,19 +20,22 @@
 
 | 工具 | 简介 | 费用 |
 | --- | --- | --- | 
-| LibreOffice Draw 和 Math | LibreOffice的一员 | 免费（GPL协议开源） |
+| GeoGebra | “用于学习与教学的动态数学软件” | 免费 |
+| R | 统计和数据分析工具 | 免费（） |
+| Octave | 多数语法与MATLAB兼容 | 免费（） | 
 
-常见的数学文档表达语言有：
+常见的数学文档排版语言有：
 
-- **LaTex**
+- **LaTex** 科学文档排版工具
 
 常见的编程性数学辅助工具有：
 
-- **R**
 - **Python**
 
 ## 结论
 
-综上，一般性画图推荐使用LaTeX或LibreOffice；
+学习数学推荐使用GeoGebra。
 
-复杂画图和数学综合分析，推荐使用R语言和Python。
+数学综合分析，推荐使用Octave、R语言，结合Python或其他语言使用。
+
+编写数学文档推荐使用LaTeX。
