@@ -49,6 +49,39 @@ y = csc(x)
 ```
 ![](camo/C1/csc(x).png)
 
+```
+y = arcsin(x)
+```
+![](camo/C1/arcsin(x).png)
+
+```
+y = arccos(x)
+```
+![](camo/C1/arccos(x).png)
+
+```
+y = arctan(x)
+```
+![](camo/C1/arctan(x).png)
+
+```
+y = arccot(x)
+```
+取`y = cot(x)`的(0,π)部分作出反函数的图像。
+定义域 `R`；值域 `(0,π)`
+
+```
+y = arcsec(x)
+```
+取`y = sec(x)`的(0,π)部分作出反函数的图像。
+定义域`R\(-1,1)`；值域 `[0,2]\{1}`
+
+```
+y = arccsc(x)
+```
+取`y = csc(x)`的(-2/π,2/π)部分作出反函数的图像。
+定义域`R\(-1,1)`；值域`[-1,1]\{0}`
+
 ### 3 计算机作图
 
 参考[工具信息](/tools/README.md)

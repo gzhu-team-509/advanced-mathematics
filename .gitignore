@@ -1,1 +1,2 @@
-*/Thumbs.db
+# 忽略任意层次下的Thumbs.db
+**/Thumbs.db
